@@ -1,7 +1,7 @@
 
 <!DOCTYPE HTML>
 <head>
-<title>Free Home Shoppe Website Template | Home :: w3layouts</title>
+
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 <link href="css/style.css" rel="stylesheet" type="text/css" media="all"/>
@@ -291,7 +291,7 @@
 			</div>			
         </div>
         <div class="copy_right">
-				<p>&copy; 2013 home_shoppe. All rights reserved | Design by <a href="http://w3layouts.com/">W3layouts</a></p>
+				
 		   </div>
     </div>
     
